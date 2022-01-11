@@ -1,3 +1,9 @@
+# Simple "SPA" for React with UI library "MaterialUI" 
+
+I am fetching an image from a remote server
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
