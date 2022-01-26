@@ -1,4 +1,4 @@
-# Simple "SPA" for React with UI library "MaterialUI" 
+# "SPA" for React with UI library "MaterialUI" 
 
 I am fetching an image from a remote server
 
